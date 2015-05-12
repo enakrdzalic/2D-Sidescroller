@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="8" tilewidth="70" tileheight="70" nextobjectid="94">
+ <tileset firstgid="1" name="Yep" tilewidth="70" tileheight="70">
+  <tile id="0">
+   <image width="70" height="70" source="PNG Castle/castleHalf.png"/>
+  </tile>
+  <tile id="1">
+   <image width="70" height="70" source="PNG Castle/castleHalfLeft.png"/>
+  </tile>
+  <tile id="2">
+   <image width="70" height="70" source="PNG Castle/castleHalfMid.png"/>
+  </tile>
+  <tile id="3">
+   <image width="70" height="70" source="PNG Castle/castleHalfRight.png"/>
+  </tile>
+  <tile id="4">
+   <image width="70" height="70" source="PNG Castle/slice01_01.png"/>
+  </tile>
+  <tile id="5">
+   <image width="70" height="70" source="PNG Castle/slice02_02.png"/>
+  </tile>
+  <tile id="6">
+   <image width="70" height="70" source="PNG Castle/slice03_03.png"/>
+  </tile>
+  <tile id="7">
+   <image width="70" height="70" source="PNG Castle/slice04_04.png"/>
+  </tile>
+  <tile id="8">
+   <image width="70" height="70" source="PNG Castle/slice05_05.png"/>
+  </tile>
+  <tile id="9">
+   <image width="70" height="70" source="PNG Castle/slice06_06.png"/>
+  </tile>
+  <tile id="10">
+   <image width="70" height="70" source="PNG Castle/slice07_07.png"/>
+  </tile>
+  <tile id="11">
+   <image width="70" height="70" source="PNG Castle/slice12_12.png"/>
+  </tile>
+  <tile id="12">
+   <image width="70" height="70" source="PNG Castle/slice13_13.png"/>
+  </tile>
+  <tile id="13">
+   <image width="70" height="70" source="PNG Castle/slice14_14.png"/>
+  </tile>
+  <tile id="14">
+   <image width="70" height="70" source="PNG Castle/slice15_15.png"/>
+  </tile>
+  <tile id="15">
+   <image width="70" height="70" source="PNG Castle/slice16_16.png"/>
+  </tile>
+  <tile id="16">
+   <image width="70" height="70" source="PNG Castle/slice17_17.png"/>
+  </tile>
+  <tile id="17">
+   <image width="70" height="70" source="PNG Castle/slice18_18.png"/>
+  </tile>
+  <tile id="18">
+   <image width="70" height="70" source="PNG Castle/slice19_19.png"/>
+  </tile>
+  <tile id="19">
+   <image width="70" height="70" source="PNG Castle/slice20_20.png"/>
+  </tile>
+  <tile id="20">
+   <image width="70" height="70" source="PNG Castle/slice21_21.png"/>
+  </tile>
+  <tile id="21">
+   <image width="70" height="70" source="PNG Castle/slice22_22.png"/>
+  </tile>
+  <tile id="22">
+   <image width="70" height="70" source="PNG Castle/slice23_23.png"/>
+  </tile>
+  <tile id="23">
+   <image width="70" height="70" source="PNG Castle/slice24_24.png"/>
+  </tile>
+  <tile id="24">
+   <image width="70" height="70" source="PNG Castle/slice25_25.png"/>
+  </tile>
+  <tile id="25">
+   <image width="70" height="70" source="PNG Castle/slice26_26.png"/>
+  </tile>
+  <tile id="26">
+   <image width="70" height="70" source="PNG Castle/slice27_27.png"/>
+  </tile>
+  <tile id="27">
+   <image width="70" height="70" source="PNG Castle/slice28_28.png"/>
+  </tile>
+  <tile id="28">
+   <image width="70" height="70" source="PNG Castle/slice29_29.png"/>
+  </tile>
+  <tile id="29">
+   <image width="70" height="70" source="PNG Castle/slice30_30.png"/>
+  </tile>
+  <tile id="30">
+   <image width="70" height="70" source="PNG Castle/slice31_31.png"/>
+  </tile>
+  <tile id="31">
+   <image width="70" height="70" source="PNG Castle/slice32_32.png"/>
+  </tile>
+  <tile id="32">
+   <image width="70" height="70" source="PNG Castle/slice33_33.png"/>
+  </tile>
+  <tile id="33">
+   <image width="70" height="70" source="PNG Castle/slice34_34.png"/>
+  </tile>
+  <tile id="34">
+   <image width="70" height="70" source="PNG Castle/slice35_35.png"/>
+  </tile>
+  <tile id="35">
+   <image width="70" height="70" source="PNG Castle/slice36_36.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="37" name="Yap" tilewidth="70" tileheight="70">
+  <tile id="0">
+   <image width="70" height="70" source="PNG Sand/sandHalf.png"/>
+  </tile>
+  <tile id="1">
+   <image width="70" height="70" source="PNG Sand/sandHalfLeft.png"/>
+  </tile>
+  <tile id="2">
+   <image width="70" height="70" source="PNG Sand/sandHalfMid.png"/>
+  </tile>
+  <tile id="3">
+   <image width="70" height="70" source="PNG Sand/sandHalfRight.png"/>
+  </tile>
+  <tile id="4">
+   <image width="70" height="70" source="PNG Sand/slice01_01.png"/>
+  </tile>
+  <tile id="5">
+   <image width="70" height="70" source="PNG Sand/slice02_02.png"/>
+  </tile>
+  <tile id="6">
+   <image width="70" height="70" source="PNG Sand/slice03_03.png"/>
+  </tile>
+  <tile id="7">
+   <image width="70" height="70" source="PNG Sand/slice04_04.png"/>
+  </tile>
+  <tile id="8">
+   <image width="70" height="70" source="PNG Sand/slice05_05.png"/>
+  </tile>
+  <tile id="9">
+   <image width="70" height="70" source="PNG Sand/slice06_06.png"/>
+  </tile>
+  <tile id="10">
+   <image width="70" height="70" source="PNG Sand/slice07_07.png"/>
+  </tile>
+  <tile id="11">
+   <image width="70" height="70" source="PNG Sand/slice12_12.png"/>
+  </tile>
+  <tile id="12">
+   <image width="70" height="70" source="PNG Sand/slice13_13.png"/>
+  </tile>
+  <tile id="13">
+   <image width="70" height="70" source="PNG Sand/slice14_14.png"/>
+  </tile>
+  <tile id="14">
+   <image width="70" height="70" source="PNG Sand/slice15_15.png"/>
+  </tile>
+  <tile id="15">
+   <image width="70" height="70" source="PNG Sand/slice16_16.png"/>
+  </tile>
+  <tile id="16">
+   <image width="70" height="70" source="PNG Sand/slice17_17.png"/>
+  </tile>
+  <tile id="17">
+   <image width="70" height="70" source="PNG Sand/slice18_18.png"/>
+  </tile>
+  <tile id="18">
+   <image width="70" height="70" source="PNG Sand/slice19_19.png"/>
+  </tile>
+  <tile id="19">
+   <image width="70" height="70" source="PNG Sand/slice20_20.png"/>
+  </tile>
+  <tile id="20">
+   <image width="70" height="70" source="PNG Sand/slice21_21.png"/>
+  </tile>
+  <tile id="21">
+   <image width="70" height="70" source="PNG Sand/slice22_22.png"/>
+  </tile>
+  <tile id="22">
+   <image width="70" height="70" source="PNG Sand/slice23_23.png"/>
+  </tile>
+  <tile id="23">
+   <image width="70" height="70" source="PNG Sand/slice24_24.png"/>
+  </tile>
+  <tile id="24">
+   <image width="70" height="70" source="PNG Sand/slice25_25.png"/>
+  </tile>
+  <tile id="25">
+   <image width="70" height="70" source="PNG Sand/slice26_26.png"/>
+  </tile>
+  <tile id="26">
+   <image width="70" height="70" source="PNG Sand/slice27_27.png"/>
+  </tile>
+  <tile id="27">
+   <image width="70" height="70" source="PNG Sand/slice28_28.png"/>
+  </tile>
+  <tile id="28">
+   <image width="70" height="70" source="PNG Sand/slice29_29.png"/>
+  </tile>
+  <tile id="29">
+   <image width="70" height="70" source="PNG Sand/slice30_30.png"/>
+  </tile>
+  <tile id="30">
+   <image width="70" height="70" source="PNG Sand/slice31_31.png"/>
+  </tile>
+  <tile id="31">
+   <image width="70" height="70" source="PNG Sand/slice32_32.png"/>
+  </tile>
+  <tile id="32">
+   <image width="70" height="70" source="PNG Sand/slice33_33.png"/>
+  </tile>
+  <tile id="33">
+   <image width="70" height="70" source="PNG Sand/slice34_34.png"/>
+  </tile>
+  <tile id="34">
+   <image width="70" height="70" source="PNG Sand/slice35_35.png"/>
+  </tile>
+  <tile id="35">
+   <image width="70" height="70" source="PNG Sand/slice36_36.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="73" name="Stuff" tilewidth="128" tileheight="146">
+  <tile id="0">
+   <image width="48" height="146" source="pokerMad.png"/>
+  </tile>
+  <tile id="1">
+   <image width="70" height="70" source="spikes.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="71" source="cloud1.png"/>
+  </tile>
+  <tile id="3">
+   <image width="48" height="146" source="hill_large.png"/>
+  </tile>
+  <tile id="4">
+   <image width="70" height="70" source="coinGold.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="78" name="Done" tilewidth="1" tileheight="1"/>
+ <layer name="Enemies" width="100" height="8">
+  <data encoding="base64" compression="zlib">
+   eJztyDERADAIBLC3h2ukVUM5jikZkwDsqqR/HuBSLT0w8wDAeQLu
+  </data>
+ </layer>
+ <layer name="Floor" width="100" height="8">
+  <data encoding="base64" compression="zlib">
+   eJztlk0OgkAMhbtSF3oFf8CdO11JAhsFPYZH4ygczTdRjE46tJSfGONLvg3QoXmvMDMjqtZEpGEJNgq2DJo6Cbz/5vc0R/8HsFOSgPyLoZaKUMP5XYP7JVcXw0trlk3rWlQYfLqirgu5kjElZRIb5sOqjPSepT297wTOAmPLZcLN/5hZhOQ8GyKLv+x6/25+IQvMuZv3yidW/v+5+miAPtPHnvAia/g+/Wfb0rR2V4X8rhH2h1JaO1TbZyYX4vcJzrfQs20plL1NwFTJSvBbeX4yZfk877qz+QcLXN+DnZKj4Js/28xZy5xJoujvDggxs1I=
+  </data>
+ </layer>
+ <objectgroup name="Walls" visible="0">
+  <object id="15" x="0" y="0" width="770" height="70"/>
+  <object id="16" x="770" y="0" width="280" height="70"/>
+  <object id="18" x="0" y="490" width="1190" height="70"/>
+  <object id="19" x="910" y="70" width="490" height="70"/>
+  <object id="20" x="910" y="420" width="490" height="70"/>
+  <object id="21" x="1470" y="350" width="350" height="70"/>
+  <object id="23" x="1470" y="0" width="350" height="70"/>
+  <object id="24" x="2030" y="210" width="350" height="70"/>
+  <object id="47" x="910" y="70">
+   <polygon points="0,0 0,70 -70,0 0,0"/>
+  </object>
+  <object id="48" x="910" y="420">
+   <polygon points="0,0 0,70 -70,70"/>
+  </object>
+  <object id="49" x="1470" y="420">
+   <polygon points="0,0 -70,0 0,-70"/>
+  </object>
+  <object id="50" x="1470" y="70">
+   <polygon points="0,0 -70,0 -70,70"/>
+  </object>
+  <object id="51" x="1820" y="70">
+   <polygon points="0,0 210,0 210,210"/>
+  </object>
+  <object id="52" x="1820" y="350">
+   <polygon points="0,0 140,140 0,140"/>
+  </object>
+  <object id="53" x="2450" y="490">
+   <polygon points="0,0 140,-140 140,0"/>
+  </object>
+  <object id="54" x="2520" y="140">
+   <polygon points="0,0 -140,0 -140,140"/>
+  </object>
+  <object id="56" x="1960" y="490" width="490" height="70"/>
+  <object id="58" x="2520" y="70" width="420" height="70"/>
+  <object id="59" x="2590" y="350" width="280" height="70"/>
+  <object id="60" x="2870" y="350">
+   <polygon points="0,0 0,210 210,210"/>
+  </object>
+  <object id="61" x="2940" y="140">
+   <polygon points="0,0 70,-70 0,-70"/>
+  </object>
+  <object id="62" x="3010" y="0" width="420" height="70"/>
+  <object id="63" x="3080" y="490" width="350" height="70"/>
+  <object id="64" x="3080" y="490" height="70"/>
+  <object id="65" x="3010" y="490" width="70" height="70"/>
+  <object id="66" x="3430" y="490" width="840" height="70"/>
+  <object id="67" x="3430" y="0" width="840" height="70"/>
+  <object id="68" x="4270" y="490">
+   <polygon points="0,0 140,-140 140,0"/>
+  </object>
+  <object id="69" x="4410" y="210">
+   <polygon points="0,0 0,-140 -140,-140"/>
+  </object>
+  <object id="70" x="4410" y="350" width="210" height="70"/>
+  <object id="71" x="4410" y="140" width="280" height="70"/>
+  <object id="72" x="4760" y="490" width="280" height="70"/>
+  <object id="73" x="4830" y="280" width="140" height="70"/>
+  <object id="74" x="4690" y="210">
+   <polygon points="0,0 140,0 140,140"/>
+  </object>
+  <object id="75" x="4620" y="350">
+   <polygon points="0,0 0,140 140,140"/>
+  </object>
+  <object id="76" x="5040" y="490">
+   <polygon points="0,0 140,-140 140,0"/>
+  </object>
+  <object id="77" x="4970" y="350">
+   <polygon points="0,0 210,-210 0,-210"/>
+  </object>
+  <object id="78" x="5180" y="350" width="1050" height="70"/>
+  <object id="80" x="5180" y="70" width="1120" height="70"/>
+  <object id="81" x="6300" y="140">
+   <polygon points="0,0 70,0 70,70"/>
+  </object>
+  <object id="82" x="6230" y="350">
+   <polygon points="0,0 140,140 0,140"/>
+  </object>
+  <object id="83" x="6370" y="140" width="630" height="70"/>
+  <object id="84" x="6370" y="490" width="630" height="70"/>
+  <object id="88" x="5694" y="275">
+   <polyline points="0,0 -13,3 -23,15 -24,34 -24,85 24,85 24,15 12,1 0,0"/>
+  </object>
+  <object id="89" x="5279.17" y="274.729">
+   <polyline points="0,0 -10.6802,-0.164312 -19.2244,3.61485 -24.9754,9.85869 -28.9188,18.0743 -28.9188,81.8271 18.8958,81.8271 18.8958,19.0601 13.4735,7.88695 -0.164312,-0.164312"/>
+  </object>
+  <object id="90" x="5460.07" y="137.364">
+   <polyline points="0,0 -0.164312,51.4295 4.10779,61.6168 11.0089,68.3536 20.7033,72.6257 28.4259,72.6257 38.2846,67.6964 44.5284,60.138 47.6503,51.9224 48.1433,-5.09366 0.164312,-0.657246"/>
+  </object>
+  <object id="92" x="5928.03" y="134.078">
+   <polyline points="0,0 0.164312,55.7016 -4.76503,65.0674 -13.4735,73.1186 -23.1679,75.2547 -34.5054,72.6257 -42.8853,65.396 -47.6503,56.3589 -47.6503,0.821558 0.985869,0"/>
+  </object>
+  <object id="93" x="6118.8" y="274.565">
+   <polyline points="0,0 -9.69438,-0.492935 -19.5531,4.2721 -25.4683,11.6661 -28.2616,20.046 -28.2616,38.7775 -28.2616,84.2918 19.3888,83.9632 19.2244,18.5672 14.2951,9.03713 6.40815,1.97174 0.164312,0.164312"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="Coins Obj">
+   <object id="96" x="576.781" y="228.218" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="97" x="646.943" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="98" x="716.873" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="99" x="786.803" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="100" x="856.907" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="101" x="926.837" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="102" x="997.115" y="228.006" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="103" x="1067.05" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="104" x="1137.15" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="105" x="1207.08" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="106" x="1276.84" y="298.11" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="107" x="1347.29" y="298.11" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="108" x="1416.87" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="109" x="1487.32" y="158.075" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="110" x="1557.25" y="158.249" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="111" x="1627.53" y="158.249" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="112" x="1697.29" y="158.249" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="113" x="1767.39" y="158.249" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="114" x="1837.32" y="228.006" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="115" x="1907.42" y="298.11" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="116" x="1977.01" y="368.214" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="117" x="2047.28" y="368.214" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="118" x="2117.21" y="368.04" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="119" x="2187.14" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="120" x="2257.42" y="298.11" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="121" x="2327.18" y="368.388" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="122" x="2396.76" y="368.04" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="123" x="2467.04" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="124" x="2536.97" y="228.006" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="125" x="2607.25" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="126" x="2677.18" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="127" x="2747.28" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="128" x="2817.38" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="129" x="2887.31" y="228.006" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="130" x="2957.42" y="228.353" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="131" x="3027.17" y="298.11" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="132" x="3097.28" y="368.214" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="133" x="3166.86" y="368.04" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="134" x="3237.31" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="135" x="3307.24" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="136" x="3377.52" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="137" x="3446.93" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="138" x="3517.38" y="228.527" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="139" x="3587.31" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="140" x="3657.42" y="368.214" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="141" x="3727.35" y="368.04" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="142" x="3796.93" y="298.284" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="143" x="3867.21" y="228.353" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="144" x="3937.66" y="228.179" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="145" x="4006.89" y="298.457" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="146" x="4077" y="368.214" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="147" x="4147.13" y="368.061" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="148" x="4216.84" y="298.17" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="149" x="4287.46" y="228.28" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="150" x="4357.35" y="228.28" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="151" x="4427.24" y="228.462" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="152" x="4496.95" y="298.716" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="153" x="4567.02" y="298.17" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="154" x="4636.73" y="298.534" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="155" x="4706.98" y="368.061" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="156" x="4776.87" y="438.316" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="157" x="4847.13" y="438.134" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="158" x="4917.2" y="438.134" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="159" x="4987.09" y="368.061" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="160" x="5056.8" y="297.806" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="161" x="5127.05" y="228.28" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="162" x="5197.13" y="158.571" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="163" x="5267.2" y="158.389" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="164" x="5337.22" y="158.204" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="165" x="5406.97" y="228.156" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="166" x="5476.72" y="228.359" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="167" x="5547.28" y="228.359" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="168" x="5617.03" y="157.798" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="169" x="5687.19" y="158.609" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="170" x="5757.14" y="158.609" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="171" x="5827.5" y="228.156" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="172" x="5896.64" y="227.954" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="173" x="5967.2" y="228.359" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="174" x="6037.16" y="158.204" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="175" x="6106.7" y="158.204" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="176" x="6177.06" y="158.406" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="177" x="6247.01" y="228.359" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="178" x="6316.97" y="297.704" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="179" x="6387.12" y="298.109" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="180" x="6456.67" y="298.515" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="181" x="6527.03" y="298.312" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="182" x="6597.18" y="298.109" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+   <object id="183" x="6667.14" y="297.906" width="35.8289" height="35.5869">
+    <ellipse/>
+   </object>
+  </objectgroup>
+  <layer name="Tile Layer 4" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dJOwkIa2CJgA/zHUAAKgWXI4ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 5" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dHOwlIa2CJgB/zHUAAKgWW1oATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 6" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dFOwmIa2CJgC/zHUAAKgWWiYATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 7" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dDOwnIa2CJgD/zHUAAKgWWPIATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 8" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzgENAAAIA6AXtH8dAzyAm4MEJAA/zXUAACgLV74ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 9" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8d7ikgIa2CJgB/zXUAACgLVooATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 10" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dvlkgIa2CJgC/zXUAAKgFVVYATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 11" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzgEJAAAIA7AXtH8d4SUE2RIsAfhvrgMAQC1UIgBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 12" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAQN+tAwBMPNqPAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 13" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAwMatAwDUPdlbAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 14" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAwM6tAwBUPdgnAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 15" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAwNatAwDUPNbzAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 16" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dxfAQEpAAbLp2AAAGPU4eAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 17" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAATbcOAAAMPcU6AE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 18" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAbbcOAACMPMQGAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 19" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMw6AanH87k5EHFLABhasDAACBB8LSAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 20" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAK7cOAACUPcGeAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 21" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAS7cOAAAUPcBqAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 22" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8d3jkgIa2CJgC0uQ4AwGMLRuYATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 23" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBAB+m+sAADULzVMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 24" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dNOwiJK2CJgAAnbkOAG8tU88ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 25" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dNOwiJK2CJgAAvbkOAC8tUpsATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 26" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dPOwhJK2CJgAAnbkOAO8sUWcATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 27" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dPOwhJK2CJgDwy1wHAKgtyIMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 28" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dPOwhJK2CJgDwz1wHAKgsx08ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 29" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgAAvbkOAC8sTcsATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 30" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBACgY64DwHsLTJcATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 31" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dLOwjJK2CJgDw21wHAKgtw7MATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 32" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dPOwhJK2CJgA05joAAA8tOt4ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 33" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dPOwhJK2CJgC05joAAM8sOaoATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 34" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgA05joAAI8sOHYATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 35" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dFOwmIa2CJgDwy1wHAKgWvuMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 36" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dDOwnIa2CJgDwz1wHAKgWva8ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 37" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBICWuQ4AwHMLNNoATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 38" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBICmuQ4AwGMLM6YATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 39" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dvlkgIa2CJgDw21wHAKgFuhMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 40" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAAHTdOgDMPECPAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 41" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAAPTdOgBMPD9bAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 42" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dxfAQEpAAwI5rBwDGPbZ3AE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 43" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIAGib6wAAPLEtogBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 44" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAIA6AVtH8dW0wPSEACQMNcBwDggQUsbgBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 45" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAA0HLrAACMPSs6AE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 46" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAA0HTrAAAMPSoGAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 47" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dxfAQEpAAwLZrBwCGPLBzAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 48" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIAAB+mesAULM27wBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 49" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIAAD+mesAULE1uwBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 50" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8drmkgIa2CJgBAzXUA4LkFrNcATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 51" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAsHbrAACUPCQCAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 52" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAIA6AVtH8dW0wPSEACwAdzHQCAggUizgBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 53" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dDOwnIa2CJgBAM9cBgIcWqTsATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 54" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgAAP8x1AKgtL7cATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 55" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgAAf8x1AKgsLoMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 56" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dJOwkIa2CJgBAM9cBgCcWpZ8ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 57" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBICv5joAAGULHMoATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 58" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBIDP5joAAEULG5YATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 59" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBIDv5joAACULGmIATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 60" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dNOwiJK2CJgBAa64DAE8toM8ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 61" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dPOwhJK2CJgBAY64DAA8tn5sATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 62" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dPOwhJK2CJgBAa64DAM8snmcATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 63" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dHOwlIa2CJgAAf8x1AKgWJOMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 64" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIAACgZ64DvLKrUABO
+    </data>
+   </layer>
+   <layer name="Tile Layer 65" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIAACga64DvLGqHABO
+    </data>
+   </layer>
+   <layer name="Tile Layer 66" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIAACgb64DvLCo6ABO
+    </data>
+   </layer>
+   <layer name="Tile Layer 67" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8d7ikgIa2CJgAAf811ACgLIBMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 68" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBABom+sAwFMLly8ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 69" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dJOwkIa2CJgB8MdcBACgWDloATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 70" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgCduQ4AAG8shXYATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 71" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgC9uQ4AAC8shEIATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 72" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBKBjrgMAwHsLgw4ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 73" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8d/hkgIa2CJgB8NdcBACgLCYoATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 74" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8d3jkgIa2CJgB8NtcBACgLCFYATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 75" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dnnkgIa2CJgB8N9cBAKgFByIATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 76" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIADrmOgAAvLN+PgBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 77" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIAHrmOgAAvLJ9CgBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 78" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzkERAAAIA6AVtH8dU+z0AQlIALrmOgAAvLF71gBO
+    </data>
+   </layer>
+   <layer name="Tile Layer 79" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dxfAQEpAAsObaAQBmPQJSAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 80" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dxfAQEpAAsOjaAQAmPQEeAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 81" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dxfAQEpAAsOraAQDmPP/bAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 82" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAdN06AADMPHcGAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 83" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAA9N06AABMPHXSAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 84" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjEBAAAMAiALrn+dtdAHEpAAbNw6AADUPXSeAE4=
+    </data>
+   </layer>
+   <layer name="Tile Layer 85" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8djokgIa2CJgBQcx0A4L0F+wsATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 86" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBAD4aq4DAGULgYcATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 87" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBAD4bK4DAEULgFMATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 88" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dTCyBo1XQBAD4bq4DACULfx8ATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 89" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzgEJAAAIA7AXtH8dSxxE2BIsAQA+mOsAQMECfesATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 90" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgDAF3MdACgtfLcATg==
+    </data>
+   </layer>
+   <layer name="Tile Layer 91" width="100" height="8">
+    <data encoding="base64" compression="zlib">
+     eJztzjENAAAIA7AZxL8dROwgJK2CJgDAJ3MdACgse4MATg==
+    </data>
+   </layer>
+
+</map>

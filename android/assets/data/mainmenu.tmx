@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="7" tilewidth="70" tileheight="70" nextobjectid="1">
+ <tileset firstgid="1" name="idk" tilewidth="256" tileheight="256">
+  <tile id="0">
+   <image width="70" height="70" source="mainmenutiles/bush.png"/>
+  </tile>
+  <tile id="1">
+   <image width="70" height="70" source="mainmenutiles/cactus.png"/>
+  </tile>
+  <tile id="2">
+   <image width="128" height="71" source="mainmenutiles/cloud1.png"/>
+  </tile>
+  <tile id="3">
+   <image width="129" height="71" source="mainmenutiles/cloud2.png"/>
+  </tile>
+  <tile id="4">
+   <image width="129" height="71" source="mainmenutiles/cloud3.png"/>
+  </tile>
+  <tile id="5">
+   <image width="70" height="70" source="mainmenutiles/mushroomBrown.png"/>
+  </tile>
+  <tile id="6">
+   <image width="70" height="70" source="mainmenutiles/mushroomRed.png"/>
+  </tile>
+  <tile id="7">
+   <image width="70" height="70" source="mainmenutiles/plant.png"/>
+  </tile>
+  <tile id="8">
+   <image width="70" height="70" source="mainmenutiles/plantPurple.png"/>
+  </tile>
+  <tile id="9">
+   <image width="70" height="70" source="mainmenutiles/rock.png"/>
+  </tile>
+  <tile id="10">
+   <image width="70" height="70" source="mainmenutiles/grassHalfLeft.png"/>
+  </tile>
+  <tile id="11">
+   <image width="70" height="70" source="mainmenutiles/grassHalfMid.png"/>
+  </tile>
+  <tile id="12">
+   <image width="256" height="256" source="mainmenutiles/bg.png"/>
+  </tile>
+ </tileset>
+ <layer name="Sky" width="20" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjcgJcGbHxiAw1wuYlc/xIjT4oZAMoQAR8=
+  </data>
+ </layer>
+ <layer name="Cloud 1" width="20" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYMANWPHI4QLMZOihFLDgkSPGD4PNzYMZAAAk2AAZ
+  </data>
+ </layer>
+ <layer name="Cloud 2" width="20" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAAZgbyACuZ+mCAhUL9Aw3w+Z/cMB2sAAAf9AAV
+  </data>
+ </layer>
+ <layer name="Ground" width="20" height="7">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxEwAjEHFLNDxUBsNiQ1HEg0I5I4O5IcD5UxAEroATc=
+  </data>
+ </layer>
+</map>
