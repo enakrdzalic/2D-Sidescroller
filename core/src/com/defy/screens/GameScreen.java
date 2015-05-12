@@ -32,9 +32,6 @@ public class GameScreen implements Screen {
     // GAME LOOP!
     @Override
     public void render(float delta) {
-        // float is number of seconds that has passed since last time render was called.
-        // 1/delta is FPS
-        // For good OOD, we will delegate update & render tasks to different classes
         runTime += delta;
         world.update(delta);
         renderer.render(runTime);
